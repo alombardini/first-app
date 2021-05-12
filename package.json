@@ -1,0 +1,19 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "my realy first app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alombardini/first-app.git"
+  },
+  "author": "alombardini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alombardini/first-app/issues"
+  },
+  "homepage": "https://github.com/alombardini/first-app#readme"
+}
